@@ -1,7 +1,7 @@
 ### mybids 🐥
 #### Open source auction platform with integrated marketplace</h2>
 
-mybids is an open source auction platform with integrated marketplace for selling unsold auction items.
+mybids is an open source auction platform with integrated marketplace for directly selling unsold auction items.
 
 
 ## Requirements
