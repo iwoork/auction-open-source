@@ -1,32 +1,8 @@
-# Frontend Monorepo Boilerplate TypeScript / Tailwind / Material UI / Next.js
+### mybids 🐥
+#### Open source auction platform with integrated marketplace</h2>
 
-[![TypeScript][typescript-badge]][typescript-url]
-[![semantic-release][semantic-badge]][semantic-url]
+mybids is an open source auction platform with integrated marketplace for selling unsold auction items.
 
-[![CI][build-badge]][build-url]
-[![CI][lint-badge]][lint-url]
-[![CI][tsc-badge]][tsc-url]
-[![CI][test-badge]][test-url]
-
-**Deployments** - Prod / Stage / Storybook
-
-[![CI][deploy-app-prod-badge]][deploy-app-prod-url]
-[![CI][deploy-app-stage-badge]][deploy-app-stage-url]
-[![CI][deploy-app-storybook-badge]][deploy-app-storybook-url]
-
-[![CI][deploy-website-prod-badge]][deploy-website-prod-url]
-[![CI][deploy-website-stage-badge]][deploy-website-stage-url]
-[![CI][deploy-website-storybook-badge]][deploy-website-storybook-url]
-
-[![CI][deploy-ui-prod-badge]][deploy-ui-prod-url]
-[![CI][deploy-ui-stage-badge]][deploy-ui-stage-url]
-
-Frontend monorepo with focus on best practices and painless developer experience:
-
-- Monorepo setup that can be easily extended 🔧
-- Spin it up with single command 🌀
-- TypeScript 100% codebase
-- Blazing fast builds, lints, tests with Turborepo [remote caching](https://turborepo.org/docs/core-concepts/remote-caching) ⚡
 
 ## Requirements
 
@@ -149,3 +125,24 @@ Monorepo features and conventions:
 [deploy-ui-prod-url]: https://turbo-ui-prod.netlify.app/
 [deploy-ui-stage-badge]: https://img.shields.io/badge/UI%20(shared%20lib)-stage-blue?logo=storybook&logoColor=white
 [deploy-ui-stage-url]: https://turbo-ui-stage.netlify.app/
+
+[![TypeScript][typescript-badge]][typescript-url]
+[![semantic-release][semantic-badge]][semantic-url]
+
+[![CI][build-badge]][build-url]
+[![CI][lint-badge]][lint-url]
+[![CI][tsc-badge]][tsc-url]
+[![CI][test-badge]][test-url]
+
+**Deployments** - Prod / Stage / Storybook
+
+[![CI][deploy-app-prod-badge]][deploy-app-prod-url]
+[![CI][deploy-app-stage-badge]][deploy-app-stage-url]
+[![CI][deploy-app-storybook-badge]][deploy-app-storybook-url]
+
+[![CI][deploy-website-prod-badge]][deploy-website-prod-url]
+[![CI][deploy-website-stage-badge]][deploy-website-stage-url]
+[![CI][deploy-website-storybook-badge]][deploy-website-storybook-url]
+
+[![CI][deploy-ui-prod-badge]][deploy-ui-prod-url]
+[![CI][deploy-ui-stage-badge]][deploy-ui-stage-url]
